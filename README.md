@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bishal
 - 👀 I’m interested in Developing Software.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
